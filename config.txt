@@ -1,0 +1,6 @@
+owner=528972802645164042
+prefix=2
+game=2play|HazeNetwork
+stayinchannel=true
+songinstatus=false
+token=NTQwNzAxOTQ3Mzc2Njk3MzU0.DzUxIQ.hBa7pR5fkPXuYEt5_N2oOiPtEzs
