@@ -1,6 +1,6 @@
 owner=528972802645164042
-prefix=2
-game=2play|HazeNetwork
+prefix=3
+game=3play|HazeNetwork
 stayinchannel=true
 songinstatus=false
-token=NTQwNzAxOTQ3Mzc2Njk3MzU0.DzUxIQ.hBa7pR5fkPXuYEt5_N2oOiPtEzs
+token=NTQ2MjU3NDcwMTQ3MDAyMzky.D0llrQ.tavtxJcfWqyNYnhOHB_uxUDwxLs
